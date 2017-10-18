@@ -18,6 +18,3 @@ Module1_OTU.fasta
 
 Module1_OTU.txt
 - Tab-delimited OTU table of OTU counts in each sample in Module1
-
-Module1_taxonomy.txt
-- Tab-delimited taxonomic identification of OTUs in Module1
